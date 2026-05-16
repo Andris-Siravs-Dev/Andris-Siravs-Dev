@@ -34,6 +34,7 @@ After completing K&R, my focus areas will be:
 1. Embedded Systems and Robotics - Building real applications on Raspberry Pi
 2. Algorithms and Data Structures - Implementing CS fundamentals from scratch
 3. Compiler Design - Understanding compilation and interpretation
+I really want to learn how computers work!
 
 ## Philosophy
 
