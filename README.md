@@ -1,109 +1,42 @@
-# Hey, I'm Andris!
+# Hi, I'm Andris
 
-**14 years old** | **Python → C Learner** | **Raspberry Pi Enthusiast** 🍓 | **Learning in Public**
+I am a passionate developer focusing on computer science fundamentals and low-level programming. My long-term goal is to contribute to high-impact software engineering and pursue advanced academic paths.
 
----
+## Current Focus
 
-## About Me
+Deep Diving into C: Currently working through "The C Programming Language" (K&R) to master memory management, pointers, and data structures from the ground up.
 
-- Currently working through **K&R** ("The C Programming Language") - the classic programming bible!
-- Passionate about **Low-Level Programming** and **Embedded Systems**
-- Developing on **Raspberry Pi 4B** with **Linux** and **GCC**
-- Actively learning **C** and deepening my **Linux** knowledge
-- Coming from a **Python** background - discovering the power of manual memory management!
-- **Learning in public** - documenting my entire K&R journey for others to follow
+Algorithm Fundamentals: Implementing low-level solutions to understand what happens under the hood.
 
----
+## Active Repositories
 
-## My Learning Journey
+[kr-c-programming-exercises](https://github.com/Andris-Siravs-Dev/K-R-Exercises) - My solutions and personal notes for the K&R C book (Currently at Chapter 2).
 
-I'm documenting my entire K&R journey publicly on GitHub to:
-- **Stay motivated** (and accountable!)
-- **Help other learners** (especially young programmers)
-- **Build a portfolio** (while actually learning)
-- **Show that anyone can learn C** - even me!
+## Tech Stack (Learning Journey)
 
-### Current Progress:
-```
-Chapter 1: A Tutorial Introduction       ████████████████░░░░  Complete
-Chapter 2: Types, Operators, Expressions ██████░░░░░░░░░░░░░░  In Progress
-Chapters 3-8                              ░░░░░░░░░░░░░░░░░░░░  Coming Soon
-```
+Languages: C (Active Study), Python (Basics)
 
----
+Tools: Git, Linux, GCC, Raspberry Pi 4B
 
-## Featured Project
+## Development Setup
 
-### [K-R-Exercises](https://github.com/Andris-Siravs-Dev/K-R-Exercises)
-> Complete K&R exercises with explanations and notes
-- All exercises from the book, solved step-by-step
-- Compiled and tested on Raspberry Pi 4B
-- Includes my learning notes for each chapter
-- Open for feedback and improvements!
-- **1 Star** (that's me! (: )
+Machine: Raspberry Pi 4B (ARM)
+OS: Linux
+Compiler: GCC
+Environment: Terminal-based workflow
 
----
+This setup is intentional. Working directly on embedded hardware with minimal abstraction layers helps me understand how software interacts with hardware at the lowest levels.
 
-## Technologies & Tools
+## Learning Path
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22082?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+After completing K&R, my focus areas will be:
 
----
+1. Embedded Systems and Robotics - Building real applications on Raspberry Pi
+2. Algorithms and Data Structures - Implementing CS fundamentals from scratch
+3. Compiler Design - Understanding compilation and interpretation
 
-## Key Learnings: Python vs C
+## Philosophy
 
-| Feature | Python | C | My Realization |
-|---------|-----------|------|-------------------|
-| **Typing** | Dynamic | Static | *Everything must be declared!* |
-| **Memory** | Automatic (GC) | Manual | *I control EVERYTHING now* |
-| **Abstraction** | High-level | Low-level | *This is close to how computers REALLY work!* |
-| **Speed** | Slower | very fast | *So. Much. Faster.* |
-| **Learning Curve** | Gentle | Steep | *I love it!* |
+I believe in learning foundations before abstractions. That's why I'm investing time in C and low-level systems rather than jumping to high-level frameworks.
 
----
-
-## 🎯 Goals for 2026
-
-- [x] Start K&R learning journey
-- [x] Create GitHub profile README
-- [ ] Complete all K&R exercises 
-- [ ] Write blog posts about C learnings 
-- [ ] Contribute to open-source C projects 
-- [ ] Build a cool embedded project with Raspberry Pi 
-- [ ] Help other young programmers learn C
-- [ ] Reach 10 GitHub stars
-- [ ] Get a very deep understanding how Computers REALLY work (Assembler, Nand2Tetris..., Mathmatics)
-
----
-
-## Let's Connect!
-
-- **GitHub:** [@Andris-Siravs-Dev](https://github.com/Andris-Siravs-Dev)
-- **Open to:** Feedback, questions, discussions, and collaboration!
-
----
-
-## Inspiring Quotes
-
-> *"The only way to learn a new programming language is by writing programs in it."*  
-> — Dennis Ritchie (Creator of C)
-
-> *"Code is poetry written for computers"*  
-> — K&R
-
----
-
-## Fun Facts About Me
-
-- I develop on a **Raspberry Pi 4B**
-- Started with Python, but C grabbed my heart
-- I'm reading the **original K&R book** (1988 edition is still relevant!)
-- Learning C at 14 to understand how computers really work
-- And of course I believe that **anyone can learn to code**!
-
----
-
-</div>
+Feedback and discussions are welcome. You can find me on GitHub exploring how software really works.
